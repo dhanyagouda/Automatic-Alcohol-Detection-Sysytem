@@ -1,6 +1,6 @@
 #define sensorDigital A0
 #define Motor 43
- #define buzzer 42
+#define buzzer 42
 #define sensorAnalog A1
 void setup() {
  pinMode(sensorDigital,INPUT);
